@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.680d4e31.css",
+    "main.js": "/static/js/main.27d0b4b1.js",
+    "static/js/787.6fa8cb16.chunk.js": "/static/js/787.6fa8cb16.chunk.js",
+    "static/media/speaker4.jpeg": "/static/media/speaker4.6a7243e606e1d28e14ba.jpeg",
+    "static/media/speaker5.jpeg": "/static/media/speaker5.414c0f83dc3a9fc3ec3c.jpeg",
+    "static/media/speaker2.jpeg": "/static/media/speaker2.e03a56f3a72b9bbfaf6e.jpeg",
+    "static/media/speaker1.jpeg": "/static/media/speaker1.dc44f48a19e15f03c2a3.jpeg",
+    "static/media/speaker6.jpeg": "/static/media/speaker6.fea9ed707d90ad66671a.jpeg",
+    "static/media/speaker7.jpeg": "/static/media/speaker7.5df233a59eb2140e8238.jpeg",
+    "static/media/whatsapp-logo.png": "/static/media/whatsapp-logo.4ba01ee1516f9a3736f4.png",
+    "static/media/speaker3.jpeg": "/static/media/speaker3.68ac6957d1fba944fc60.jpeg",
+    "static/media/speaker8.jpeg": "/static/media/speaker8.2530c2024e304726505d.jpeg",
+    "static/media/accenture-logo.png": "/static/media/accenture-logo.6b6b5f0f57b06e2859c3.png",
+    "static/media/google-logo.png": "/static/media/google-logo.d7548f558d339de72821.png",
+    "static/media/barclays-logo.png": "/static/media/barclays-logo.84946ace90f33da2e3d2.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.680d4e31.css.map": "/static/css/main.680d4e31.css.map",
+    "main.27d0b4b1.js.map": "/static/js/main.27d0b4b1.js.map",
+    "787.6fa8cb16.chunk.js.map": "/static/js/787.6fa8cb16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680d4e31.css",
+    "static/js/main.27d0b4b1.js"
+  ]
+}
