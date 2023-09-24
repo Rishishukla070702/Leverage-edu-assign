@@ -1,0 +1,136 @@
+.hero_contentSection {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    margin-top: 0px;
+    background-color: #000a16;
+    padding-bottom: 25px;
+  }
+  
+  .hero_content {
+    position: relative;
+    width: 40%;
+    display: flex;
+    margin-left: 15%;
+    flex-direction: column;
+  }
+  
+  .hero_content h1 {
+    position: relative;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: -60px;
+  }
+  
+  .hero_info1 {
+    position: relative;
+    font-size: 18px;
+    width: 85%;
+  }
+  
+  .hero_contentHotstar {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .hero_contentHotstar p {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .hero_hotstarLogo {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    margin-left: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 5px;
+  }
+  
+  .hero_hotstarLiveBtn {
+    position: relative;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    margin-top: 25px;
+    background: linear-gradient(135deg, #0e1c37 0%, #2874f0 100%);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .hero_talkToExpertBtn {
+    position: relative;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .hero_info2 {
+    position: relative;
+    font-size: 12px;
+    margin-top: 15px;
+    color: grey;
+    margin-left: -75px;
+  }
+  
+  .hero_info3 {
+    position: relative;
+    font-size: 12px;
+    margin-top: 30px;
+    color: grey;
+    margin-left: -50px;
+  }
+  
+  .hero_brandLogosWrapper {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-top: 10px;
+  }
+  
+  .brandPartnerLogo {
+    position: relative;
+    width: auto;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 15px;
+  }
+  
+  .hero_imageWrapper {
+    position: relative;
+    display: flex;
+    width: 60%;
+    justify-content: flex-end;
+  }
+  
+  .hero_whatsappChat {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 90%;
+    right: 5%;
+    cursor: pointer;
+  }
+  
+  .hero_whatsappLogo {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  

@@ -1,0 +1,133 @@
+.header {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+.hero_notification {
+    display: flex;
+    position: relative;
+    width: 100%;
+    background-color: #002147;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    
+  }
+  .hero_notification #p {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .hero_applyNow {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 2.5px;
+    border-radius: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .hero_header {
+    position: relative;
+    width: 99.35%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 0px;
+    padding-bottom: 30px;
+  }
+  
+  .hero_logo {
+    position: relative;
+    display: flex;
+    margin-left: 15%;
+    width: 20%;
+    justify-content: flex-start;
+    overflow: hidden;
+  }
+  
+  .hero_logoImg {
+    position: relative;
+    height: 35px;
+    width: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .hero_headerItems {
+    position: relative;
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    margin-top: auto;
+    margin-bottom: auto;
+    justify-content: flex-end;
+    padding: 15px 15px 0px 15px;
+  }
+  
+  .hero_headerItem {
+    position: inherit;
+    width: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 25px;
+    cursor: pointer;
+  }
+  
+  .hero_search {
+    position: relative;
+    padding: 5px 8px 5px 8px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
+    margin-right: 25px;
+  }
+  
+  .hero_searchPerson {
+    position: relative;
+    padding: 5px 8px 5px 8px;
+    border-radius: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
+    margin-right: 25px;
+    background-color: #c3cad3;
+  }
+ 
+ 
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: row;
+  }
+  .hero_notification {
+    justify-content: flex-start;
+  }
+  .hero_header {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .hero_logo {
+    width: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+  }
+  .hero_headerItems {
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  .hero_headerItem {
+    margin-right: 5px;
+  }
+}
+  
